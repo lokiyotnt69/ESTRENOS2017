@@ -2,14 +2,18 @@
 
 
 
-<item>
-<title> SALA 1 </title>
-<link></link>
+
+
+
+
+
+
+<channels>
+<channel>
+<name>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] [COLOR yellow] SALA 1[/COLOR] </name>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
-
-
+<items>
 
 
 
@@ -47,3 +51,13 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] </title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+</items>
+</channel>
